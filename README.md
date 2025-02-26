@@ -1,2 +1,2 @@
 # Makine-renmesi-ile-hayvanlar-zerinde-s-t-verimlilik-al-mas-
-Bu projemizde Holstein türü ineklerin ultrason görüntülerinin bulunduğu bir hazır veri seti üzerinde çeşitli makine öğrenme modelleri kullanılarak sütlerin verimlilik değerlerinin incelenmesi üzerinde çalışıldı.
+Bu projemizde Holstein turu ineklerin ultrason goruntulerinin bulunduğu bir hazır veri seti uzerinde ceşitli makine ogrenme modelleri kullanılarak sütlerin verimlilik degerlerinin incelenmesi üzerinde çalışıldı.
